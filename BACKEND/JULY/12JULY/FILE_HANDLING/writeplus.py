@@ -1,0 +1,5 @@
+file = open("student.txt", "a+")
+file.write("Avantika")
+file.seek(0)
+print(file.read())
+file.close()
