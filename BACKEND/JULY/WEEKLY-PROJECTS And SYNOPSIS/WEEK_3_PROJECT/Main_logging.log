@@ -1,0 +1,45 @@
+2026-07-14 18:57:31,311:ERROR:invalid literal for int() with base 10: '& C:/Users/avant/AppData/Roaming/uv/python/cpython-3.14.5-windows-x86_64-none/python.exe d:/A-PYTHON/A_WEEKPROJECTS/WEEK_3_PROJECT/Main.py'
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\Main.py", line 12, in <module>
+    n=int(input("Enter choice:"))
+ValueError: invalid literal for int() with base 10: '& C:/Users/avant/AppData/Roaming/uv/python/cpython-3.14.5-windows-x86_64-none/python.exe d:/A-PYTHON/A_WEEKPROJECTS/WEEK_3_PROJECT/Main.py'
+2026-07-14 18:57:33,080:ERROR:invalid literal for int() with base 10: '& C:/Users/avant/AppData/Roaming/uv/python/cpython-3.14.5-windows-x86_64-none/python.exe d:/A-PYTHON/A_WEEKPROJECTS/WEEK_3_PROJECT/Main.py'
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\Main.py", line 12, in <module>
+    n=int(input("Enter choice:"))
+ValueError: invalid literal for int() with base 10: '& C:/Users/avant/AppData/Roaming/uv/python/cpython-3.14.5-windows-x86_64-none/python.exe d:/A-PYTHON/A_WEEKPROJECTS/WEEK_3_PROJECT/Main.py'
+2026-07-14 18:57:49,982:ERROR:invalid literal for int() with base 10: ''
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\Main.py", line 12, in <module>
+    n=int(input("Enter choice:"))
+ValueError: invalid literal for int() with base 10: ''
+2026-07-14 18:57:50,561:ERROR:invalid literal for int() with base 10: ''
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\Main.py", line 12, in <module>
+    n=int(input("Enter choice:"))
+ValueError: invalid literal for int() with base 10: ''
+2026-07-14 18:57:52,371:ERROR:invalid literal for int() with base 10: 's'
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\Main.py", line 12, in <module>
+    n=int(input("Enter choice:"))
+ValueError: invalid literal for int() with base 10: 's'
+2026-07-14 19:02:59,526:ERROR:invalid literal for int() with base 10: '& C:/Users/avant/AppData/Roaming/uv/python/cpython-3.14.5-windows-x86_64-none/python.exe d:/A-PYTHON/A_WEEKPROJECTS/WEEK_3_PROJECT/Main.py'
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\Main.py", line 12, in <module>
+    n=int(input("Enter choice:"))
+ValueError: invalid literal for int() with base 10: '& C:/Users/avant/AppData/Roaming/uv/python/cpython-3.14.5-windows-x86_64-none/python.exe d:/A-PYTHON/A_WEEKPROJECTS/WEEK_3_PROJECT/Main.py'
+2026-07-15 01:01:40,335:ERROR:invalid literal for int() with base 10: 'rr'
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\teacherprofile.py", line 28, in teacher
+    choice = int(input("Enter your choice: "))
+ValueError: invalid literal for int() with base 10: 'rr'
+2026-07-15 01:10:14,117:ERROR:invalid literal for int() with base 10: 'rr'
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\teacherprofile.py", line 28, in teacher
+    choice = int(input("Enter your choice: "))
+ValueError: invalid literal for int() with base 10: 'rr'
+2026-07-15 10:22:53,487:ERROR:invalid literal for int() with base 10: 'Hod_Admin'
+Traceback (most recent call last):
+  File "d:\A-PYTHON\A_WEEKPROJECTS\WEEK_3_PROJECT\Main.py", line 22, in <module>
+    m=int(input("Enter choice:"))
+ValueError: invalid literal for int() with base 10: 'Hod_Admin'

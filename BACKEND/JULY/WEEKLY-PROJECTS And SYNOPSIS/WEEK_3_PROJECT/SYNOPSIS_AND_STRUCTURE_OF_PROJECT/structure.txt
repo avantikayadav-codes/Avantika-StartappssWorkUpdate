@@ -1,0 +1,30 @@
+ng?
+1. HOD
+2. Teacher
+   │
+   ▼
+auth.login(role)
+   │
+   ├── Login Failed
+   │        │
+   │        ▼
+   │     Try Again
+   │
+   └── Login Success
+            │
+            ├── HOD → hod.py
+            └── Teacher → teacher.py
+Files
+Project/
+
+│── main.py
+│── auth.py
+│── hod.py
+│── teacher.py
+│── logger.py
+
+│── admin.csv
+│── student.csv
+│── result.csv
+
+│── student.log
